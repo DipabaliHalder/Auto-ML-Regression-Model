@@ -1,10 +1,8 @@
 streamlit
 pandas
 numpy
+pickleshare
 scikit-learn
-seaborn
-io
-matplotlib
 plotly
-mlxtend
-pickle
+matplotlib
+seaborn
