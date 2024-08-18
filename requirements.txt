@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+seaborn
+io
+matplotlib
+plotly
+mlxtend
+pickle
